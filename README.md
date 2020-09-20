@@ -19,6 +19,7 @@
 - 💬&nbsp;&nbsp;*Ask me about Game Dev, Electron, Space, AI, Quantum Theory*
 
 
+<hr/>
 
 
 <p align="center">
