@@ -1,4 +1,4 @@
-<p><img align="center" src="https://github.com/ZoeDreams/zoedreams/blob/master/banner3.png" alt=""/></p>
+<p><img align="center" src="https://github.com/ZoeDreams/zoedreams/blob/master/banner.png" alt=""/></p>
 
 <h1 align="center">Hi 👋, I'm Kara</h1>
 
