@@ -18,6 +18,9 @@
 
 - 💬&nbsp;&nbsp;*Ask me about Game Dev, Electron, Space, AI, Quantum Theory*
 
+
+
+
 <p align="center">
 <a href="https://github.com/zoedreams" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" /></a>
   <a href="https://github.com/dreamscale-io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" alt="dreamscale" height="30" width="30" /></a>
