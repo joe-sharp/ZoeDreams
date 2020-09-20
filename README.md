@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Kara</h1>
 
-##### I have worked in the industry since 1996, when I created my own business to build and sell computers that could connect to the internet using soundblasters and modems. I love developing `Tools`, `Graphics`, and `Games` with a concentration in Rendering, Automation, Monitoring and Debugging. I also have alot of fun writing, design, and create `Stories`, `Scripts`, and `Mechanics` for Video Games, Movies, Applications, and Virtual Realty. 
+##### I started creating computers and video games in 1994. Gaming and developing `Tools`, `Graphics`, and `Games` with a concentration in Rendering, Automation, Monitoring and Debugging are my favorite activities. My other passions are writing, designing, and creating `Stories`, `Scripts`, and `Mechanics` for Video Games, Movies, Applications, and Virtual Realty. My greatest passion is having fun.
 
 - 🚀  Currently working on [Torchie](https://github.com/dreamscale-io/torchie-shell) and *[Untited Game]*
 
