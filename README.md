@@ -2,9 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Kara</h1>
 
-- 🔭 I’m currently working on [Torchie](https://www.torchie.net) && [Untited Game]
+- 💻 I’m currently working on [Torchie](https://www.torchie.net) && [Untited Game]
 
-- 💻 All of my projects are available at [dreamscale-io](https://github.com/dreamscale-io)
+- 🚀 All of my build tool projects are available at [DreamScale](https://github.com/dreamscale-io)
+
+- 🕹 My unity assets are available at [Bat Country Entertainment](https://github.com/Bat-Country-Entertainment)
 
 - 📝 I regulary write articles on [dev.to](https://dev.to/zoedreams)
 
