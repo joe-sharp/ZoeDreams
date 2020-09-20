@@ -4,17 +4,17 @@
 
 ##### I started creating computers and video games in 1994. Gaming and developing `Tools`, `Graphics`, and `Games` with a concentration in Rendering, Automation, Monitoring and Debugging are my favorite activities. My other passions include writing, designing, and creating `Stories`, `Scripts`, and `Mechanics` for Video Games, Movies, Applications, and Virtual Realty. My greatest passion is having fun.
 
-- 🚀  Currently working on [Torchie](https://github.com/dreamscale-io/torchie-shell) and *[Untited Game]*
+- 🚀&nbsp;&nbsp;Currently working on [Torchie](https://github.com/dreamscale-io/torchie-shell) and *[Untited Game]*
 
-- 💻  My projects are available at [dreamscale-io](https://github.com/dreamscale-io)
+- 💻&nbsp;&nbsp;My projects are available at [dreamscale-io](https://github.com/dreamscale-io)
 
-- 📝  I regulary write articles on [dev.to](https://dev.to/zoedreams)
+- 📝&nbsp;&nbsp;I regulary write articles on [dev.to](https://dev.to/zoedreams)
 
-- 💬  Ask me about Electron / Unity / Node / JavaScript 
+- 💬&nbsp;&nbsp;Ask me about Electron / Unity / Node / JavaScript 
 
-- 🧬  Ethical Software Licensing [DoNoHarm.org](https://firstdonoharm.dev/)
+- 🧬&nbsp;&nbsp;Ethical Software Licensing [DoNoHarm.org](https://firstdonoharm.dev/)
 
-- 📫  How to reach me **zoe@dreamscale.io**
+- 📫&nbsp;&nbsp;How to reach me **zoe@dreamscale.io**
 
 <p align="center">
 <a href="https://github.com/zoedreams" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" /></a>
