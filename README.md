@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Kara Rawson</h1>
 
-##### I started creating computers and video games in 1994. Gaming and developing `Tools`, `Graphics`, and `Games` with a concentration in Rendering, Automation, Monitoring and Debugging are my favorite activities. My other passions include writing, designing, and creating `Stories`, `Scripts`, and `Mechanics` for Video Games, Movies, Applications, and Virtual Realty. My greatest passion is having fun.
+##### I started creating computers and video games back in 1994. Gaming and developing `Tools`, `Graphics`, and `Games` with a concentration in Rendering, Automation, Monitoring and Debugging are my favorite activities. My other passions include writing, designing, and creating `Stories`, `Scripts`, and `Mechanics` for Video Games, Movies, Applications, and Virtual Realty. My greatest passion is having fun.
 
 <hr/>
 
