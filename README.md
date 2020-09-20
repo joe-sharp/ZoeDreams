@@ -4,13 +4,17 @@
 
 ##### I have worked in the industry since 1996, when I created my own business to build and sell computers that could connect to the internet using soundblasters and modems. I love developing `Tools`, `Graphics`, and `Games` with a concentration in Rendering, Automation, Monitoring and Debugging. I also have alot of fun writing, design, and create `Stories`, `Scripts`, and `Mechanics` for Video Games, Movies, Applications, and Virtual Realty. 
 
-- 🔭 I’m currently working on [Torchie](https://github.com/dreamscale-io/torchie-shell) and *[Untited Game]*
+- 🚀  Currently working on [Torchie](https://github.com/dreamscale-io/torchie-shell) and *[Untited Game]*
 
-- 💻 All of my projects are available at [dreamscale-io](https://github.com/dreamscale-io)
+- 💻  My projects are available at [dreamscale-io](https://github.com/dreamscale-io)
 
-- 📝 I regulary write articles on [dev.to](https://dev.to/zoedreams)
+- 📝  I regulary write articles on [dev.to](https://dev.to/zoedreams)
 
-- 📫 How to reach me **zoe@dreamscale.io**
+- 💬  Ask me about Electron / Unity / Node / JavaScript 
+
+- 🧬  Ethical Software Licensing [DoNoHarm.org](https://firstdonoharm.dev/)
+
+- 📫  How to reach me **zoe@dreamscale.io**
 
 <p align="center">
 <a href="https://github.com/zoedreams" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" /></a>
