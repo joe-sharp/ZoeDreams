@@ -10,11 +10,11 @@
 
 - 📝&nbsp;&nbsp;I regulary write articles on [dev.to](https://dev.to/zoedreams)
 
-- 💬&nbsp;&nbsp;Ask me about Electron / Unity / Node / JavaScript 
-
 - 🧬&nbsp;&nbsp;Ethical Software Licensing [DoNoHarm.org](https://firstdonoharm.dev/)
 
 - 📫&nbsp;&nbsp;How to reach me **zoe@dreamscale.io**
+
+- 💬&nbsp;&nbsp;*Ask me about Game Dev, Electron, Space, AI, Quantum Theory*
 
 <p align="center">
 <a href="https://github.com/zoedreams" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" /></a>
