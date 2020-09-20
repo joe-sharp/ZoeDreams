@@ -21,5 +21,3 @@
   <a href="https://dev.to/zoedreams" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/kara-marie-rawson-8ba5b5133/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
 </p>
-
-<p><img align="center" src="https://github.com/ZoeDreams/zoedreams/blob/master/graphic_bottom.png" alt=""/></p>
