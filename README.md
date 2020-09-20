@@ -2,7 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Kara Rawson</h1>
 
-##### I started creating computers and video games back in 1994. Gaming and developing `Tools`, `Graphics`, and `Games` with a concentration in Rendering, Automation, Monitoring and Debugging are my favorite activities. My other passions include writing, designing, and creating `Stories`, `Scripts`, and `Mechanics` for Video Games, Movies, Applications, and Virtual Realty.
+<p align="center">
+##### I started creating computers and video games back in 1994 and develop `Tools`, `Graphics`, and `Games` with a concentration in Rendering, Automation, Monitoring and Debugging. My other passions include writing, designing, and creating `Stories`, `Scripts`, and `Mechanics` for Video Games, Movies, Applications, and Virtual Realty.
+</p>
+
 <hr/>
 
 - 🚀&nbsp;&nbsp;Currently working on [Torchie](https://github.com/dreamscale-io/torchie-shell) and *[Untited Game]*
