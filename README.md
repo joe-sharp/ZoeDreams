@@ -2,13 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm <a  href="https://github.com/ZoeDreams/ZoeDreams/blob/master/SKILLS.md">Kara Rawson</a></h1>
 
-<h1 align="center">
-I started creating computers and video games back in 1994 and develop `Tools`, `Graphics`, and `Games` with a concentration in Rendering, Automation, Monitoring and Debugging. My other passions include writing, designing, and creating `Stories`, `Scripts`, and `Mechanics` for Video Games, Movies, Applications, and Virtual Realty.
-</h1>
+###### I started creating computers and video games back in 1994 and develop `Tools`, `Graphics`, and `Games` with a concentration in Rendering, Automation, Monitoring and Debugging. My other passions include writing, designing, and creating `Stories`, `Scripts`, and `Mechanics` for Video Games, Movies, Applications, and Virtual Realty.
 
 <hr/>
 
-<h1>
 - 🚀&nbsp;&nbsp;Currently working on [Torchie](https://github.com/dreamscale-io/torchie-shell) and *[Untited Game]*
 
 - 💻&nbsp;&nbsp;My projects are available at [dreamscale-io](https://github.com/dreamscale-io)
@@ -20,7 +17,6 @@ I started creating computers and video games back in 1994 and develop `Tools`, `
 - 📫&nbsp;&nbsp;How to reach me **zoe@dreamscale.io**
 
 - 💬&nbsp;&nbsp;*Ask me about Game Dev, Electron, Space, AI, Quantum Theory*
-</h1>
 
 <hr/>
 
