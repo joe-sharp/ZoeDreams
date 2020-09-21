@@ -8,15 +8,16 @@
 
 - 🚀&nbsp;&nbsp;Currently working on [Torchie](https://github.com/dreamscale-io/torchie-shell) and *[Untited Game]*
 
-- 💻&nbsp;&nbsp;My projects are available at [dreamscale-io](https://github.com/dreamscale-io)
+- 💻&nbsp;&nbsp;My projects are available at [dreamscale-io](https://github.com/dreamscale-io) & [BatCountryEnt](https://github.com/Bat-Country-Entertainment)
 
 - 📝&nbsp;&nbsp;I regulary write articles on [dev.to](https://dev.to/zoedreams)
 
-- 🧬&nbsp;&nbsp;Ethical Software Licensing [DoNoHarm.org](https://firstdonoharm.dev/)
+- 🧬&nbsp;&nbsp;I support Ethical Software Licensing [DoNoHarm.org](https://firstdonoharm.dev/)
 
 - 📫&nbsp;&nbsp;How to reach me **zoe@dreamscale.io**
 
 - 💬&nbsp;&nbsp;*Ask me about Game Dev, Electron, Space, AI, Quantum Theory*
+
 
 <hr/>
 
