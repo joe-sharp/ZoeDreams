@@ -1,6 +1,6 @@
 <p><img align="center" src="https://github.com/ZoeDreams/zoedreams/blob/master/banner.png" alt=""/></p>
 
-<h1 align="center">Hi 👋, I'm Kara Rawson</h1>
+<h1 align="center">Hi 👋, I'm <a  href="https://github.com/ZoeDreams/ZoeDreams/blob/master/SKILLS.md">Kara Rawson</a</h1>
 
 ##### I started creating computers and video games back in 1994 and develop `Tools`, `Graphics`, and `Games` with a concentration in Rendering, Automation, Monitoring and Debugging. My other passions include writing, designing, and creating `Stories`, `Scripts`, and `Mechanics` for Video Games, Movies, Applications, and Virtual Realty.
 
