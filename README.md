@@ -2,21 +2,21 @@
 
 <h1 align="center">Hi 👋, I'm <a  href="https://github.com/ZoeDreams/ZoeDreams/blob/master/SKILLS.md">Kara Rawson</a></h1>
 
-###### I started creating computers and video games back in 1994 and develop `Tools`, `Graphics`, and `Games` with a concentration in Rendering, Automation, Monitoring and Debugging. My other passions include writing, designing, and creating `Stories`, `Scripts`, and `Mechanics` for Video Games, Movies, Applications, and Virtual Realty.
+###### I started creating computers and video games back in 1994 and develop `Tools`, `Graphics`, and `Games` with a concentration in 3D Rendering, AI, Game Theory, and Innvotaion. My other passions include writing, designing, and creating `Stories`, `Scripts`, and `Mechanics` for Video Games, Movies, Applications, and Virtual Realty. In my personal time I love hiking, snowboarding, and composing music.
 
 <hr/>
 
-- 🚀&nbsp;&nbsp;Currently working on [Torchie](https://github.com/dreamscale-io/torchie-shell) and *[Untited Game]*
+- 🚀&nbsp;&nbsp;Currently working on [PeaceIsland](https://www.patreon.com/PeaceIsland)
 
-- 💻&nbsp;&nbsp;My projects are available at [dreamscale-io](https://github.com/dreamscale-io) & [BatCountryEnt](https://github.com/Bat-Country-Entertainment)
+- 💻&nbsp;&nbsp;Some awesome projects that I was part of recently [dreamscale-io](https://github.com/dreamscale-io)
 
 - 📝&nbsp;&nbsp;I regulary write articles on [dev.to](https://dev.to/zoedreams)
 
 - 🧬&nbsp;&nbsp;I support Ethical Software Licensing [DoNoHarm.org](https://firstdonoharm.dev/)
 
-- 📫&nbsp;&nbsp;How to reach me **zoe@dreamscale.io**
+- 📫&nbsp;&nbsp;How to reach me **rawsonkara@gmail.com**
 
-- 💬&nbsp;&nbsp;*Ask me about Game Dev, Electron, Space, AI, Quantum Theory*
+- 💬&nbsp;&nbsp;*Ask me about Game Dev, Electron, Space, AI, Quantum Theory, Consciousness, Music Production*
 
 
 <hr/>
