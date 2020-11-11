@@ -12,7 +12,7 @@
 
 <hr/>
 
-- 🚀&nbsp;&nbsp;Currently working on [PeaceIsland](https://www.patreon.com/PeaceIsland) and [GLAS](https://github.com/lume/glas)
+- 🚀&nbsp;&nbsp;Currently working on [PeaceIsland](https://www.patreon.com/PeaceIsland) (crowdsourced game) and [GLAS](https://github.com/lume/glas) (webgl assembly script)
 
 - 💻&nbsp;&nbsp;Some awesome projects that I was part of recently [dreamscale-io](https://github.com/dreamscale-io)
 
