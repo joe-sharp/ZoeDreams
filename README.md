@@ -14,8 +14,6 @@
 
 - 🚀&nbsp;&nbsp;Currently working on [LUME](https://lume.io) (3d Web) and [GLAS](https://github.com/lume/glas) (WebGL [Assembly Script](https://www.assemblyscript.org/))
 
-- 💻&nbsp;&nbsp;Some awesome projects that I was part of recently [dreamscale-io](https://github.com/dreamscale-io)
-
 - 📝&nbsp;&nbsp;I regulary write articles on [dev.to](https://dev.to/zoedreams)
 
 - 🧬&nbsp;&nbsp;I support Ethical Software Licensing [DoNoHarm.org](https://firstdonoharm.dev/)
