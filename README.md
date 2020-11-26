@@ -1,6 +1,9 @@
 <p><img align="center" src="https://github.com/ZoeDreams/zoedreams/blob/master/banner.png" alt=""/></p>
 
-<h1 align="center">Hi 👋, I'm <a  href="https://github.com/ZoeDreams/ZoeDreams/blob/master/SKILLS.md">Kara Rawson</a></h1>
+<h1 align="center">Hi 👋, I'm <a  href="https://github.com/ZoeDreams/ZoeDreams/blob/master/SKILLS.md">Kara Rawson</a>  
+  <a href="https://dev.to/zoedreams">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="☮️✝️☪️🕉☸️✡️☯️ 's DEV Profile" height="30" width="30">
+</a></h1>
 
 ##### I started creating computers and software back in 1988, when my schools library aquired their first Apple computer. A few short years later I taught myself to program BASIC and C. During middle school I built several Apple hackintoshes for use by our school -- made with old AT&T PC7300's and Atari 800's. After finishing high school and taking advanced mathematics courses at `Dartmouth`, I attending `Rennselaer Polytechnical Insititute` for `Electrical Engineering` in 2000. After one very long semester I left the college to pursue my passion for `Internet Graphics`, `Games`, and `Electronic Music`. Around 2006 the college I attended invited my startup company `American Ad Trader` to work and teach in the RPI Incubator with graduate students and Ph.d.'s. During this time, I began researching scalable VOIP networks for `Bluestone Telecommunication` and wrote my dissertation called `Open 3D Bible` for `Google`. At this time I realized the neccessity for open source, so I began helping out on the google code project. 
 
