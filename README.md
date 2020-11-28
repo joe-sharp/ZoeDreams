@@ -13,7 +13,7 @@ Taking Kara's advice and forked her GitHub profile to tinker with the widgets be
 
 
 ### Github Stats
-![All Stats](https://github-readme-stats.vercel.app/api?username=joe-sharp&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-sharp&layout=compact&theme=dark)
+![All Stats](https://github-readme-stats.vercel.app/api?username=joe-sharp&show_icons=true&include_all_commits=true&count_private=true&theme=dark&icon_color=007bff&title_color=007bff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-sharp&layout=compact&theme=dark&title_color=007bff)
 
 <hr/>
