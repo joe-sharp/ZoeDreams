@@ -17,5 +17,3 @@ Taking Kara's advice and forked her GitHub profile to tinker with the widgets be
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-sharp&layout=compact)
 
 <hr/>
-
-<p align="center"><img src="https://profile-counter.glitch.me/zoedreams/count.svg" alt=""/></p>
